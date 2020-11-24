@@ -35,3 +35,7 @@ figure {
   border-style: solid;
   border-color: grey;
 }
+
+#copyright {
+  text-align: right;
+}
