@@ -41,7 +41,7 @@ figure {
 }
 
 .nav img {
-  border-style: solid;
+  border: solid;
   border-color: grey;
 }
 
