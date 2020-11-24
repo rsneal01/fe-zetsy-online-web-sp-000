@@ -40,7 +40,7 @@ figure {
   text-align: right;
 }
 
-.nav {
+.nav a {
   border-style: solid;
   border-color: grey;
 }
