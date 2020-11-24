@@ -40,3 +40,7 @@ figure {
   text-align: right;
 }
 
+h2 img {
+  border-style: solid;
+  border-color: grey;
+}
